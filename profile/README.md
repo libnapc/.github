@@ -1,10 +1,10 @@
 # Welcome
 
-This is the official github account for the project named libnapc.
+This is the official github account of the project named libnapc.
 
 libnapc came into existence to support any projects written in C by nap.software.
 
-It allows you to test your arduino applications on linux before deploying!
+libnapc allows you to test your arduino applications on linux before deploying on arduino!
 
 <!--
 
