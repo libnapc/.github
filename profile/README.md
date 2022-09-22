@@ -1,6 +1,6 @@
-# Welcome
+# Hello!
 
-This is the official github account of the project named libnapc.
+This is the official github account of the project libnapc!
 
 libnapc came into existence to support any projects written in C by nap.software.
 
